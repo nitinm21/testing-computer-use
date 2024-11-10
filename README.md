@@ -15,7 +15,7 @@ cd testing-computer-use
 2. Create and activate a virtual environment:
 
 ```bash
-python3.12 -m venv venv
+python -m venv venv
 source venv/bin/activate
 ```
 
