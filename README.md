@@ -1,6 +1,7 @@
 # Anthropic Computer Use Demo
 
-[Anthropic Computer Use](https://github.com/anthropics/anthropic-quickstarts/blob/main/computer-use-demo/README.md) is a beta Anthropic feature which runs a Docker image with Ubuntu and controls it. This fork allows you to run it natively on macOS, providing direct system control through native macOS commands and utilities.
+Here's the official press release about [Anthropic Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use). 
+Computer Use runs a Docker image with Ubuntu and controls it. It's a pretty cool feature that seems like the first step towards AI Agents that can control your computer.
 
 ## Setup Instructions
 
